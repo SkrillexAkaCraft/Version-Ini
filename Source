@@ -97,7 +97,7 @@ ELSE
 Return
 
 Yes:
-;UrlDownloadToFile, https://github.com/SkrillexAkaCraft/FiestaOnline/raw/master/price_checker.exe, %A_Workingdir%\Fiesta Online Price Checker.exe 
+;UrlDownloadToFile, UrlDownloadToFile, https://www.dropbox.com/s/q7xk6cg0oxbu5xn/Sponge_Installer.exe?dl=1, %A_Workingdir%\Fiesta Online Price Checker.exe 
 gosub Run
 return
 
